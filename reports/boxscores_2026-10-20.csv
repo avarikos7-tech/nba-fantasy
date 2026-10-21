@@ -1,0 +1,85 @@
+fantasy_team,player,team,played,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta,score
+BC Longjohn,John Collins,DET,True,25.0,6,5,1,1,1,0,0,3,7,0,0,3.88
+BC Longjohn,Payton Pritchard,BOS,True,28.0,17,4,1,0,0,2,0,4,9,7,8,4.4
+Chicago Fire,Devin Vassell,SA,True,31.0,7,3,1,0,0,1,0,2,8,2,2,1.79
+Daddy's Home,Tyrese Maxey,PHI,True,40.0,28,4,5,3,3,2,2,9,19,8,9,11.08
+Daddy's Home,VJ Edgecombe,PHI,True,35.0,9,4,1,1,0,0,1,4,10,1,2,2.3
+Jimmermania Fredette #32,Shai Gilgeous-Alexander,OKC,True,36.0,32,6,4,3,3,3,2,13,27,3,4,12.4
+Jimmermania Fredette #32,Stephon Castle,SA,True,28.0,24,7,1,0,0,5,3,9,21,1,1,6.23
+Nick BC,Ajay Mitchell,OKC,True,23.0,4,5,6,0,0,0,1,2,8,0,0,0.8
+Nick BC,Chet Holmgren,OKC,True,31.0,14,7,2,0,4,0,1,3,8,8,8,7.33
+Nick BC,Joel Embiid,PHI,True,33.0,13,11,6,2,3,2,4,4,15,3,4,7.96
+Nick Longjohn,Jalen Brunson,NY,True,34.0,21,5,3,0,0,1,2,6,19,8,8,3.22
+Nick Longjohn,Jalen Duren,DET,True,28.0,22,9,1,1,1,0,1,8,13,6,7,7.22
+Nick Longjohn,Josh Hart,NY,True,30.0,14,7,3,1,1,2,2,5,10,2,3,5.82
+PATER FAMILIAS,Ausar Thompson,DET,True,33.0,11,11,5,1,0,0,3,4,8,3,3,4.14
+PATER FAMILIAS,De'Aaron Fox,SA,True,32.0,14,7,7,1,0,0,2,6,9,2,3,4.06
+PATER FAMILIAS,LeBron James,PHI,True,34.0,14,9,7,1,1,0,1,5,13,4,6,4.99
+Scary Hours,Cade Cunningham,DET,True,35.0,22,4,8,1,1,1,5,8,18,5,5,4.43
+Scary Hours,Cason Wallace,OKC,True,19.0,6,3,2,1,0,0,1,3,8,0,0,1.84
+Scary Hours,Dylan Harper,SA,True,32.0,18,7,5,0,0,0,2,7,17,4,4,3.08
+Scary Hours,Isaiah Hartenstein,OKC,True,17.0,4,3,3,1,1,0,2,2,4,0,0,2.47
+Scary Hours,Mikal Bridges,NY,True,33.0,4,3,1,0,1,0,0,2,8,0,0,1.7
+Stone's Super Team,Jayson Tatum,BOS,True,38.0,13,4,11,0,0,0,2,6,23,1,1,0.38
+Victoria Warriors,Jaylen Brown,PHI,True,35.0,19,8,6,1,1,2,2,7,14,3,4,6.77
+Victoria Warriors,Mitchell Robinson,BOS,True,18.0,4,3,1,1,2,0,2,2,2,0,2,3.28
+Victoria Warriors,Neemias Queta,BOS,True,22.0,3,4,2,1,2,0,1,1,3,1,2,3.67
+Victoria Warriors,OG Anunoby,NY,True,32.0,10,5,0,1,1,1,2,3,12,3,3,3.66
+Victoria Warriors,Paul George,BOS,True,31.0,38,5,3,5,0,7,3,12,21,7,8,14.68
+Victoria Warriors,Victor Wembanyama,SA,True,34.0,12,13,3,1,6,0,4,1,13,10,12,8.75
+Wimbledon Hospital,Derrick White,BOS,True,36.0,17,1,8,1,0,3,4,7,13,0,0,3.76
+Wimbledon Hospital,Jalen Williams,OKC,True,30.0,12,7,2,1,1,1,0,5,16,1,2,4.87
+Wimbledon Hospital,Karl-Anthony Towns,NY,True,24.0,19,12,1,1,2,3,4,6,9,4,7,8.57
+FREE AGENT,Aday Mara,OKC,True,12.0,7,2,1,0,1,0,1,3,4,1,2,2.11
+FREE AGENT,Adem Bona,PHI,True,10.0,0,3,1,0,1,0,0,0,0,0,0,1.75
+FREE AGENT,Alex Caruso,OKC,True,25.0,9,6,1,1,0,2,0,3,4,1,2,4.95
+FREE AGENT,Andre Drummond,NY,True,24.0,12,14,4,1,2,0,0,5,13,2,4,7.27
+FREE AGENT,Anfernee Simons,PHI,True,25.0,13,2,0,0,0,3,0,5,10,0,0,3.95
+FREE AGENT,Baylor Scheierman,BOS,True,18.0,8,3,0,1,0,2,1,3,4,0,0,3.85
+FREE AGENT,Bennett Stirtz,OKC,True,1.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Brooks Barnhizer,OKC,True,1.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Caleb Love,PHI,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Carter Bryant,SA,True,6.0,0,0,1,0,0,0,0,0,3,0,0,-0.42
+FREE AGENT,Chaz Lanier,DET,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Chris Cenac Jr.,BOS,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Daniss Jenkins,DET,True,15.0,3,2,3,0,0,1,1,1,3,0,0,0.94
+FREE AGENT,David Jones Garcia,SA,True,1.0,2,0,0,0,0,0,0,0,1,2,2,0.23
+FREE AGENT,Duncan Robinson,DET,True,28.0,21,2,2,1,0,5,3,5,10,6,8,5.84
+FREE AGENT,Ebuka Okorie,DET,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Harrison Barnes,SA,True,9.0,3,0,0,0,1,1,0,1,1,0,0,2.12
+FREE AGENT,Hugo Gonzalez,BOS,True,10.0,0,3,0,0,0,0,0,0,1,0,0,0.61
+FREE AGENT,Isaiah Joe,DET,True,19.0,8,2,2,1,1,2,1,2,9,2,3,3.49
+FREE AGENT,Ja'Kobi Gillespie,SA,True,1.0,2,0,0,0,0,0,0,1,2,0,0,0.26
+FREE AGENT,Jabari Walker,PHI,True,3.0,0,0,1,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,James Wiseman,NY,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Jared McCain,OKC,True,22.0,20,2,2,1,0,6,2,7,9,0,0,7.53
+FREE AGENT,Javonte Green,DET,True,18.0,19,4,0,0,0,5,0,5,10,4,4,6.63
+FREE AGENT,Jaylin Williams,OKC,True,17.0,5,4,1,0,0,1,1,1,6,2,2,1.39
+FREE AGENT,Jordan Clarkson,NY,True,8.0,4,1,1,0,0,0,0,2,4,0,0,0.77
+FREE AGENT,Jordan McLaughlin,SA,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Jordan Walsh,BOS,True,13.0,0,6,1,1,1,0,0,0,2,0,0,3.22
+FREE AGENT,Jose Alvarado,NY,True,16.0,8,3,3,2,0,2,1,3,7,0,0,4.42
+FREE AGENT,Julian Champagnie,SA,True,30.0,8,3,1,2,3,2,0,3,8,0,0,7.68
+FREE AGENT,Justin Edwards,PHI,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Keldon Johnson,SA,True,20.0,10,4,1,2,0,1,2,4,8,1,1,4.14
+FREE AGENT,Kenrich Williams,OKC,True,7.0,3,2,0,0,0,1,0,1,1,0,0,1.62
+FREE AGENT,Kentavious Caldwell-Pope,PHI,True,26.0,10,4,1,0,1,2,0,3,8,2,2,4.3
+FREE AGENT,Kevin Huerter,DET,True,18.0,3,3,2,0,0,1,0,1,4,0,0,1.45
+FREE AGENT,Kevin McCullar Jr.,NY,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Labaron Philon Jr.,PHI,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Landry Shamet,NY,True,25.0,5,2,4,0,0,1,2,2,7,0,2,0.04
+FREE AGENT,Luka Garza,BOS,True,8.0,2,2,0,0,0,0,1,1,3,0,0,0.22
+FREE AGENT,Luke Kornet,SA,True,13.0,4,1,0,0,1,0,0,2,2,0,0,2.05
+FREE AGENT,Maliq Brown,SA,True,1.0,0,0,1,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Mike Conley,BOS,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Miles McBride,NY,True,14.0,3,1,1,0,1,1,1,1,5,0,0,1.41
+FREE AGENT,Mohamed Diawara,NY,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Pacome Dadiet,NY,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Paul Reed,DET,True,17.0,6,6,2,1,0,0,2,2,3,2,2,2.73
+FREE AGENT,Rayan Rupert,PHI,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Ron Harper Jr.,BOS,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Ronald Holland II,DET,True,3.0,0,1,1,0,1,0,1,0,1,0,0,0.71
+FREE AGENT,Sam Hauser,BOS,True,18.0,11,4,1,0,0,3,0,4,7,0,0,4.33
+FREE AGENT,Tarris Reed Jr.,SA,True,1.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Tolu Smith,DET,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+FREE AGENT,Tyler Kolek,NY,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
