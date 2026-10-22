@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Build report
-        run: python nba_daily_report.py
+        run: python nba_boxscores.py
       - name: Save report to the repository
         run: |
           git config user.name "github-actions"
