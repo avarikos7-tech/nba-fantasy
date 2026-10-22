@@ -3,7 +3,7 @@ name: Daily NBA report
 on:
   schedule:
     - cron: "0 4 * * *"
-    - cron: "30 6 * * *"
+    - cron: "00 6 * * *"
   workflow_dispatch:
 
 permissions:
