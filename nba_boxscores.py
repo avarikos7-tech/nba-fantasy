@@ -227,8 +227,10 @@ def main():
     ap.add_argument("--days", type=int, default=2,
                     help="also (re)build this many earlier nights if their file is missing (default 2)")
     a = ap.parse_args()
+    # Latest US night whose games are surely over: 12 hours back from now (UTC) gives the right
+    # date from roughly 01:00 to 13:00 Athens time, whatever time the job runs.
     last = dt.date.fromisoformat(a.date) if a.date else \
-        (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=5)).date() - dt.timedelta(days=1)
+        (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=12)).date()
     os.makedirs(REPORTS, exist_ok=True)
     for i in range(a.days, -1, -1):
         day = last - dt.timedelta(days=i)
