@@ -83,6 +83,33 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-10-23,Taurean Prince,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Chaz Lanier,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Ebuka Okorie,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Yaxel Lendeborg,GS,True,,37.0,18,13,6,3,0,1,6,4,11,9,12
+2026-10-23,Brandin Podziemski,GS,True,,33.0,18,2,3,3,1,2,4,7,17,2,2
+2026-10-23,Draymond Green,GS,True,,31.0,5,5,6,0,1,1,5,2,4,0,0
+2026-10-23,Stephen Curry,GS,True,,30.0,24,2,4,0,0,3,0,5,15,11,11
+2026-10-23,Gui Santos,GS,True,,20.0,5,4,2,1,1,1,0,1,3,2,2
+2026-10-23,De'Anthony Melton,GS,True,,20.0,10,1,0,1,1,2,0,4,6,0,0
+2026-10-23,Al Horford,GS,True,,19.0,3,5,0,0,2,1,0,1,3,0,0
+2026-10-23,Georges Niang,GS,True,,13.0,4,3,0,1,0,0,1,2,5,0,0
+2026-10-23,Graham Ike,GS,True,,12.0,10,2,1,1,0,2,0,4,7,0,0
+2026-10-23,Gary Payton II,GS,True,,11.0,7,2,0,0,0,1,1,3,6,0,0
+2026-10-23,Brandon Williams,GS,True,,9.0,4,2,1,1,0,0,2,1,5,2,2
+2026-10-23,Will Richard,GS,True,,3.0,0,0,0,1,0,0,0,0,1,0,0
+2026-10-23,Malevy Leons,GS,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,LJ Cryer,GS,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Kevin Durant,HOU,True,,37.0,20,7,6,0,0,2,3,5,10,8,8
+2026-10-23,Alperen Sengun,HOU,True,,36.0,29,7,7,0,1,2,3,10,20,7,8
+2026-10-23,Amen Thompson,HOU,True,,36.0,20,10,4,2,2,1,2,9,15,1,1
+2026-10-23,Jabari Smith Jr.,HOU,True,,34.0,7,5,1,1,2,1,2,2,5,2,2
+2026-10-23,Fred VanVleet,HOU,True,,32.0,14,3,5,3,0,3,0,4,10,3,4
+2026-10-23,Tari Eason,HOU,True,,27.0,12,6,0,3,0,0,1,4,8,4,4
+2026-10-23,Marcus Smart,HOU,True,,21.0,5,3,1,1,0,0,3,1,6,3,4
+2026-10-23,Steven Adams,HOU,True,,9.0,4,2,1,1,0,0,0,2,2,0,0
+2026-10-23,Bogdan Bogdanovic,HOU,True,,9.0,3,1,0,0,0,1,1,1,2,0,0
+2026-10-23,Jae'Sean Tate,HOU,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Isaiah Crawford,HOU,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Clint Capela,HOU,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Bruce Thornton,HOU,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Andrew Nembhard,IND,True,,32.0,16,2,5,1,0,1,1,5,11,5,5
 2026-10-23,Tyrese Haliburton,IND,True,,32.0,18,6,7,1,2,0,3,8,17,2,2
 2026-10-23,Pascal Siakam,IND,True,,29.0,23,3,3,0,0,3,5,8,13,4,7
@@ -96,6 +123,51 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-10-23,Jay Huff,IND,True,,5.0,0,2,0,0,0,0,0,0,1,0,0
 2026-10-23,Larry Nance Jr.,IND,True,,1.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Kobe Brown,IND,True,,1.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Darius Garland,LAC,True,,37.0,26,0,6,1,0,4,9,9,19,4,5
+2026-10-23,Derrick Jones Jr.,LAC,True,,35.0,16,4,1,2,0,3,0,6,13,1,2
+2026-10-23,Kris Dunn,LAC,True,,34.0,7,4,5,2,0,1,2,3,6,0,0
+2026-10-23,Rui Hachimura,LAC,True,,33.0,16,6,1,2,0,3,2,5,14,3,4
+2026-10-23,Isaiah Jackson,LAC,True,,28.0,6,6,3,3,1,0,3,3,5,0,0
+2026-10-23,Keaton Wagler,LAC,True,,24.0,13,3,3,1,0,2,4,2,8,7,9
+2026-10-23,Brook Lopez,LAC,True,,20.0,22,4,0,0,3,2,2,8,9,4,5
+2026-10-23,Kobe Sanders,LAC,True,,19.0,5,3,5,1,0,1,2,2,4,0,0
+2026-10-23,Gradey Dick,LAC,True,,12.0,6,4,0,1,0,0,1,3,5,0,0
+2026-10-23,Baba Miller,LAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Nick Martinelli,LAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Jalen Pickett,LAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Cam Christie,LAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Austin Reaves,LAL,True,,38.0,28,2,9,2,0,3,6,10,13,5,6
+2026-10-23,Luka Doncic,LAL,True,,37.0,23,6,7,0,1,2,11,8,21,5,7
+2026-10-23,Walker Kessler,LAL,True,,35.0,22,8,3,3,6,0,1,10,14,2,5
+2026-10-23,Ziaire Williams,LAL,True,,31.0,14,5,0,2,1,1,0,5,7,3,3
+2026-10-23,Quentin Grimes,LAL,True,,31.0,13,8,4,1,0,3,2,3,6,4,4
+2026-10-23,Matisse Thybulle,LAL,True,,24.0,13,1,2,2,1,3,0,5,8,0,0
+2026-10-23,Sandro Mamukelashvili,LAL,True,,24.0,7,5,2,0,0,1,0,3,4,0,0
+2026-10-23,Collin Sexton,LAL,True,,16.0,5,1,2,3,0,1,1,2,6,0,0
+2026-10-23,Kevon Looney,LAL,True,,5.0,0,1,0,0,0,0,0,0,0,0,0
+2026-10-23,Jarred Vanderbilt,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Arthur Kaluma,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Dalton Knecht,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,AK Okereke,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Bronny James,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Jaden Hardy,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Cameron Boozer,MEM,True,,37.0,25,13,6,2,0,4,6,6,13,9,9
+2026-10-23,Ty Jerome,MEM,True,,32.0,28,2,5,1,0,3,4,11,22,3,5
+2026-10-23,Jerami Grant,MEM,True,,26.0,6,0,3,2,1,1,2,2,9,1,1
+2026-10-23,Jaylen Wells,MEM,True,,25.0,17,4,3,0,0,4,1,5,9,3,5
+2026-10-23,Zach Edey,MEM,True,,22.0,8,10,3,1,2,0,0,4,6,0,1
+2026-10-23,Quinten Post,MEM,True,,20.0,2,1,1,0,2,0,2,1,3,0,0
+2026-10-23,Scotty Pippen Jr.,MEM,True,,17.0,8,6,3,0,1,0,5,4,6,0,0
+2026-10-23,Cam Spencer,MEM,True,,17.0,11,2,1,0,0,3,2,4,7,0,0
+2026-10-23,Isaiah Stewart,MEM,True,,16.0,4,2,0,1,0,0,2,2,3,0,0
+2026-10-23,GG Jackson,MEM,True,,15.0,2,4,1,0,0,0,1,1,6,0,1
+2026-10-23,Kris Murray,MEM,True,,13.0,0,3,1,0,1,0,0,0,2,0,0
+2026-10-23,Olivier-Maxence Prosper,MEM,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Taylor Hendricks,MEM,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Karim Lopez,MEM,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Micah Peavy,MEM,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Jahmai Mashack,MEM,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Walter Clayton Jr.,MEM,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Giannis Antetokounmpo,MIA,True,,33.0,36,12,5,2,1,1,3,15,26,5,8
 2026-10-23,Davion Mitchell,MIA,True,,33.0,18,2,5,0,2,3,1,6,14,3,5
 2026-10-23,Pelle Larsson,MIA,True,,29.0,7,2,1,1,0,1,1,1,7,4,4
@@ -139,7 +211,7 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-10-23,Cody Williams,MIN,True,,3.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Jaylen Clark,MIN,True,,3.0,0,2,1,0,0,0,0,0,0,0,0
 2026-10-23,Isaiah Evans,MIN,True,,2.0,0,0,1,0,0,0,0,0,0,0,0
-2026-10-23,Zion Williamson,NO,True,,33.0,23,6,2,3,0,0,2,8,13,7,8
+2026-10-23,Zion Williamson,NO,True,,33.0,23,5,2,3,0,0,2,8,12,7,8
 2026-10-23,Trey Murphy III,NO,True,,31.0,9,6,3,1,0,1,2,4,9,0,0
 2026-10-23,Dejounte Murray,NO,True,,30.0,16,6,6,3,0,0,3,7,15,2,2
 2026-10-23,Derik Queen,NO,True,,29.0,12,7,2,2,2,1,2,4,9,3,4
@@ -181,6 +253,44 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-10-23,Nikola Vucevic,ORL,True,,4.0,0,2,0,0,0,0,0,0,1,0,0
 2026-10-23,Colin Castleton,ORL,True,,4.0,7,2,1,0,0,0,0,3,3,1,2
 2026-10-23,Alex Morales,ORL,True,,4.0,0,1,0,0,0,0,0,0,1,0,0
+2026-10-23,Deni Avdija,POR,True,,38.0,26,6,6,1,0,1,3,8,16,9,12
+2026-10-23,Damian Lillard,POR,True,,33.0,19,5,2,2,0,2,2,7,18,3,3
+2026-10-23,Toumani Camara,POR,True,,27.0,19,3,1,2,0,5,0,7,12,0,0
+2026-10-23,Ja Morant,POR,True,,27.0,12,3,7,1,0,1,2,5,13,1,2
+2026-10-23,Jrue Holiday,POR,True,,26.0,12,2,8,1,1,3,0,4,10,1,2
+2026-10-23,Sidy Cissoko,POR,True,,26.0,15,7,1,1,0,2,0,5,8,3,5
+2026-10-23,Donovan Clingan,POR,True,,21.0,8,10,3,0,2,0,0,3,5,2,2
+2026-10-23,Scoot Henderson,POR,True,,21.0,4,1,2,0,0,0,0,1,7,2,2
+2026-10-23,Robert Williams III,POR,True,,18.0,13,6,0,0,1,0,2,6,6,1,2
+2026-10-23,Vit Krejci,POR,True,,3.0,0,2,0,0,0,0,0,0,1,0,0
+2026-10-23,John Tonje,POR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Micah Potter,POR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Yang Hansen,POR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Devin Vassell,SA,True,,36.0,10,4,2,3,0,2,5,3,8,2,2
+2026-10-23,Dylan Harper,SA,True,,36.0,20,3,2,0,0,1,0,8,15,3,4
+2026-10-23,De'Aaron Fox,SA,True,,34.0,19,4,9,2,0,2,5,6,11,5,5
+2026-10-23,Stephon Castle,SA,True,,33.0,15,7,5,1,0,3,1,6,15,0,1
+2026-10-23,Victor Wembanyama,SA,True,,32.0,25,13,2,0,2,2,2,9,21,5,8
+2026-10-23,Julian Champagnie,SA,True,,25.0,6,0,0,3,0,2,1,2,5,0,0
+2026-10-23,Keldon Johnson,SA,True,,19.0,8,6,1,1,0,0,1,4,7,0,0
+2026-10-23,Luke Kornet,SA,True,,16.0,7,3,0,0,1,0,0,2,3,3,5
+2026-10-23,Harrison Barnes,SA,True,,5.0,0,0,0,0,0,0,0,0,2,0,0
+2026-10-23,Carter Bryant,SA,True,,4.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Tarris Reed Jr.,SA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Jordan McLaughlin,SA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Domantas Sabonis,SAC,True,,39.0,27,19,10,0,0,1,5,10,13,6,7
+2026-10-23,Zach LaVine,SAC,True,,39.0,22,5,1,2,1,3,3,6,15,7,7
+2026-10-23,Darius Acuff Jr.,SAC,True,,37.0,33,2,4,0,0,2,3,10,26,11,12
+2026-10-23,Keegan Murray,SAC,True,,26.0,12,2,1,1,0,0,1,4,9,4,4
+2026-10-23,Precious Achiuwa,SAC,True,,26.0,14,6,1,2,0,0,1,7,11,0,0
+2026-10-23,De'Andre Hunter,SAC,True,,25.0,4,7,1,0,0,0,0,2,4,0,0
+2026-10-23,Daeqwon Plowden,SAC,True,,20.0,3,0,0,0,1,1,0,1,2,0,0
+2026-10-23,Emanuel Sharp,SAC,True,,14.0,5,0,1,0,0,1,0,2,5,0,0
+2026-10-23,Malik Monk,SAC,True,,12.0,0,1,2,0,0,0,1,0,6,0,0
+2026-10-23,Nique Clifford,SAC,True,,2.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Leaky Black,SAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Alex Karaban,SAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-23,Jonathan Mogbo,SAC,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-23,Scottie Barnes,TOR,True,,37.0,28,14,5,2,2,1,8,12,26,3,3
 2026-10-23,RJ Barrett,TOR,True,,34.0,23,9,4,0,1,1,0,9,16,4,5
 2026-10-23,Immanuel Quickley,TOR,True,,29.0,12,1,6,0,0,0,1,5,15,2,3
