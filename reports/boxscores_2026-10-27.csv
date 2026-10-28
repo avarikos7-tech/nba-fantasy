@@ -41,6 +41,20 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-10-27,Isaac Jones,DET,True,,3.0,0,0,1,0,0,0,0,0,0,0,0
 2026-10-27,Elijah Harkless,DET,True,,3.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-27,Chaz Lanier,DET,True,,2.0,2,0,0,0,0,0,0,1,1,0,0
+2026-10-27,Austin Reaves,LAL,True,,39.0,26,4,7,0,0,4,0,8,13,6,7
+2026-10-27,Luka Doncic,LAL,True,,37.0,41,5,9,0,1,6,2,12,22,11,13
+2026-10-27,Walker Kessler,LAL,True,,33.0,13,8,0,1,2,0,4,6,9,1,4
+2026-10-27,Ziaire Williams,LAL,True,,29.0,11,2,4,2,0,2,1,4,5,1,2
+2026-10-27,Sandro Mamukelashvili,LAL,True,,24.0,17,4,2,0,1,3,1,6,9,2,2
+2026-10-27,Matisse Thybulle,LAL,True,,22.0,5,2,1,0,0,1,3,2,5,0,0
+2026-10-27,Jake LaRavia,LAL,True,,19.0,5,1,1,3,0,1,0,2,2,0,0
+2026-10-27,Quentin Grimes,LAL,True,,19.0,2,4,0,0,0,0,1,1,4,0,0
+2026-10-27,Collin Sexton,LAL,True,,14.0,9,1,4,0,0,0,3,4,11,1,2
+2026-10-27,Kevon Looney,LAL,True,,5.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Jarred Vanderbilt,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Arthur Kaluma,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Bronny James,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Jaden Hardy,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-27,OG Anunoby,NY,True,,36.0,13,7,2,2,2,1,2,5,15,2,2
 2026-10-27,Jalen Brunson,NY,True,,36.0,23,1,7,0,0,0,1,5,18,13,16
 2026-10-27,Karl-Anthony Towns,NY,True,,33.0,27,20,3,0,0,1,7,12,21,2,2
@@ -56,6 +70,19 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-10-27,James Wiseman,NY,True,,1.0,0,1,0,0,0,0,1,0,0,0,0
 2026-10-27,Jordan Clarkson,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-27,Kevin McCullar Jr.,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Deni Avdija,POR,True,,33.0,23,4,9,1,0,4,3,8,15,3,7
+2026-10-27,Damian Lillard,POR,True,,31.0,21,5,4,0,0,4,2,5,12,7,11
+2026-10-27,Ja Morant,POR,True,,31.0,23,0,4,0,0,1,1,9,13,4,4
+2026-10-27,Jrue Holiday,POR,True,,30.0,22,4,3,1,0,2,1,8,12,4,6
+2026-10-27,Donovan Clingan,POR,True,,26.0,9,10,1,0,1,2,1,3,4,1,4
+2026-10-27,Toumani Camara,POR,True,,24.0,12,1,1,1,0,4,0,4,5,0,0
+2026-10-27,Robert Williams III,POR,True,,21.0,14,10,1,2,1,0,0,6,8,2,2
+2026-10-27,Sidy Cissoko,POR,True,,20.0,6,2,4,0,0,0,1,2,4,2,2
+2026-10-27,Scoot Henderson,POR,True,,17.0,2,2,3,0,0,0,5,0,3,2,2
+2026-10-27,Vit Krejci,POR,True,,7.0,4,0,0,0,0,1,0,1,2,1,3
+2026-10-27,Micah Potter,POR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Branden Carlson,POR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-27,Yang Hansen,POR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-10-27,Dylan Harper,SA,True,,30.0,13,6,6,2,0,0,1,6,7,1,1
 2026-10-27,Victor Wembanyama,SA,True,,27.0,29,10,2,2,5,0,0,14,21,1,1
 2026-10-27,Stephon Castle,SA,True,,27.0,15,5,5,1,0,3,3,4,11,4,4
