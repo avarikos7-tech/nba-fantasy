@@ -1,0 +1,296 @@
+date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
+2026-10-28,Jalen Johnson,ATL,True,,36.0,12,9,11,0,2,2,3,4,12,2,3
+2026-10-28,Nickeil Alexander-Walker,ATL,True,,32.0,23,3,1,1,0,5,2,8,18,2,2
+2026-10-28,Onyeka Okongwu,ATL,True,,31.0,11,4,4,0,1,1,1,5,10,0,1
+2026-10-28,Dyson Daniels,ATL,True,,28.0,7,4,7,3,1,0,1,3,7,1,2
+2026-10-28,Kingston Flemings,ATL,True,,28.0,23,5,5,1,1,3,2,9,12,2,3
+2026-10-28,Luguentz Dort,ATL,True,,24.0,8,3,3,1,1,2,1,3,11,0,0
+2026-10-28,Aaron Wiggins,ATL,True,,24.0,10,4,3,0,0,2,1,4,11,0,0
+2026-10-28,CJ McCollum,ATL,True,,20.0,13,2,1,0,0,1,1,6,9,0,0
+2026-10-28,Jock Landale,ATL,True,,17.0,10,6,0,0,0,0,3,4,6,2,3
+2026-10-28,Dorian Finney-Smith,ATL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Corey Kispert,ATL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Asa Newell,ATL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Zuby Ejiofor,ATL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Brandon Miller,CHA,True,,38.0,31,12,3,2,0,3,3,12,26,4,5
+2026-10-28,Moussa Diabate,CHA,True,,35.0,9,9,2,0,1,0,5,3,4,3,4
+2026-10-28,Dennis Schroder,CHA,True,,34.0,14,4,5,0,0,2,5,6,10,0,0
+2026-10-28,Royce O'Neale,CHA,True,,34.0,9,4,0,1,0,3,0,3,8,0,0
+2026-10-28,Grayson Allen,CHA,True,,30.0,9,5,2,2,2,2,5,2,8,3,4
+2026-10-28,Sion James,CHA,True,,23.0,5,2,3,1,0,1,0,1,6,2,2
+2026-10-28,Naz Reid,CHA,True,,13.0,7,6,0,0,1,1,1,2,6,2,2
+2026-10-28,Ryan Kalkbrenner,CHA,True,,13.0,1,1,1,1,1,0,2,0,0,1,2
+2026-10-28,Tidjane Salaun,CHA,True,,12.0,2,2,0,0,0,0,0,1,1,0,0
+2026-10-28,Christian Anderson,CHA,True,,9.0,2,0,1,0,0,0,2,1,2,0,0
+2026-10-28,Hannes Steinbach,CHA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,PJ Hall,CHA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Liam McNeeley,CHA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Caleb Wilson,CHI,True,,38.0,20,6,4,2,1,3,1,7,18,3,4
+2026-10-28,Norman Powell,CHI,True,,37.0,30,2,2,1,0,4,4,10,15,6,9
+2026-10-28,Matas Buzelis,CHI,True,,33.0,17,5,3,1,1,3,4,5,13,4,6
+2026-10-28,Josh Giddey,CHI,True,,31.0,10,8,11,1,0,1,2,4,9,1,1
+2026-10-28,Jalen Smith,CHI,True,,30.0,17,11,5,0,3,3,0,7,12,0,0
+2026-10-28,Isaac Okoro,CHI,True,,18.0,7,0,1,1,0,1,0,1,4,4,6
+2026-10-28,Tre Jones,CHI,True,,18.0,11,4,3,1,0,1,1,4,8,2,3
+2026-10-28,Leonard Miller,CHI,True,,17.0,10,0,1,0,2,1,0,4,8,1,1
+2026-10-28,Noa Essengue,CHI,True,,10.0,3,0,1,0,0,1,0,1,1,0,0
+2026-10-28,Buddy Hield,CHI,True,,9.0,2,3,1,0,0,0,0,1,3,0,0
+2026-10-28,Zach Collins,CHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jordan Hawkins,CHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Dailyn Swain,CHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jaylin Sellers,CHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,James Harden,CLE,True,,34.0,16,2,6,1,0,2,2,5,18,4,4
+2026-10-28,Evan Mobley,CLE,True,,32.0,24,12,2,0,0,5,3,8,12,3,4
+2026-10-28,Donovan Mitchell,CLE,True,,31.0,19,5,7,2,0,2,5,6,13,5,5
+2026-10-28,Jarrett Allen,CLE,True,,30.0,8,12,2,1,3,0,0,3,6,2,2
+2026-10-28,Peyton Watson,CLE,True,,28.0,22,6,2,0,1,1,2,9,17,3,3
+2026-10-28,Jaylon Tyson,CLE,True,,21.0,7,1,2,1,0,1,1,3,5,0,0
+2026-10-28,Sam Merrill,CLE,True,,20.0,8,1,1,1,0,2,0,2,7,2,2
+2026-10-28,Meleek Thomas,CLE,True,,20.0,10,4,1,1,0,0,0,4,7,2,2
+2026-10-28,Mario Hezonja,CLE,True,,17.0,5,3,2,0,0,1,0,2,5,0,0
+2026-10-28,Tyrese Proctor,CLE,True,,6.0,2,1,1,0,0,0,0,1,1,0,0
+2026-10-28,Tristan Enaruna,CLE,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Riley Minix,CLE,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Thomas Bryant,CLE,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Craig Porter Jr.,CLE,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Cooper Flagg,DAL,True,,33.0,26,5,8,0,0,2,0,10,23,4,4
+2026-10-28,Zaccharie Risacher,DAL,True,,29.0,13,6,1,1,1,2,1,5,6,1,2
+2026-10-28,Daniel Gafford,DAL,True,,27.0,7,11,2,0,2,1,2,3,4,0,0
+2026-10-28,P.J. Washington,DAL,True,,27.0,18,9,0,0,1,2,1,7,16,2,2
+2026-10-28,Kyrie Irving,DAL,True,,27.0,15,2,4,2,2,3,1,6,14,0,0
+2026-10-28,Max Christie,DAL,True,,22.0,11,5,2,0,0,3,1,3,8,2,2
+2026-10-28,Marcus Sasser,DAL,True,,22.0,10,1,4,0,0,1,1,4,9,1,1
+2026-10-28,Morez Johnson Jr.,DAL,True,,18.0,10,6,3,0,0,0,1,4,6,2,2
+2026-10-28,Walter Clayton Jr.,DAL,True,,15.0,0,2,5,0,0,0,0,0,4,0,2
+2026-10-28,Caleb Martin,DAL,True,,14.0,10,2,0,1,0,2,1,4,6,0,0
+2026-10-28,Tobi Lawal,DAL,True,,3.0,0,0,1,0,0,0,0,0,0,0,0
+2026-10-28,Moussa Cisse,DAL,True,,3.0,0,0,0,0,0,0,0,0,1,0,0
+2026-10-28,Jett Howard,DAL,True,,3.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jamal Murray,DEN,True,,38.0,23,1,6,0,2,5,1,9,19,0,0
+2026-10-28,Christian Braun,DEN,True,,36.0,15,0,4,3,1,3,2,6,13,0,0
+2026-10-28,Nikola Jokic,DEN,True,,34.0,21,13,10,1,0,0,7,8,13,5,5
+2026-10-28,Trevon Brazile,DEN,True,,32.0,11,8,0,1,1,1,1,5,9,0,0
+2026-10-28,Aaron Gordon,DEN,True,,31.0,15,11,3,1,0,2,0,3,10,7,8
+2026-10-28,DeMar DeRozan,DEN,True,,26.0,6,2,5,2,0,0,1,1,6,4,4
+2026-10-28,Marvin Bagley III,DEN,True,,19.0,8,5,1,1,1,0,1,3,6,2,2
+2026-10-28,Bryce Hopkins,DEN,True,,14.0,0,2,0,0,0,0,3,0,0,0,0
+2026-10-28,Tyus Jones,DEN,True,,11.0,5,0,1,2,0,1,1,2,4,0,0
+2026-10-28,Zeke Nnaji,DEN,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,DaRon Holmes II,DEN,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Cam Whitmore,DEN,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Ryan Nembhard,DEN,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Cade Cunningham,DET,True,,39.0,30,5,7,2,0,4,1,10,22,6,8
+2026-10-28,Paul Reed,DET,True,,38.0,16,4,0,3,1,2,3,5,7,4,4
+2026-10-28,Duncan Robinson,DET,True,,32.0,13,2,2,4,1,3,2,4,13,2,2
+2026-10-28,Ausar Thompson,DET,True,,29.0,7,9,8,0,1,0,3,3,5,1,2
+2026-10-28,Daniss Jenkins,DET,True,,24.0,14,2,3,2,0,2,0,6,10,0,0
+2026-10-28,Javonte Green,DET,True,,21.0,7,2,2,1,0,1,0,2,5,2,2
+2026-10-28,Kevin Huerter,DET,True,,19.0,3,2,3,1,0,1,0,1,3,0,0
+2026-10-28,John Collins,DET,True,,18.0,4,2,0,0,0,0,0,2,8,0,0
+2026-10-28,Ronald Holland II,DET,True,,12.0,0,2,1,0,0,0,4,0,2,0,0
+2026-10-28,Taurean Prince,DET,True,,6.0,1,2,0,0,0,0,0,0,0,1,2
+2026-10-28,Tolu Smith,DET,True,,1.0,2,1,0,0,0,0,0,1,1,0,0
+2026-10-28,Isaac Jones,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Elijah Harkless,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Chaz Lanier,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Ebuka Okorie,DET,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Yaxel Lendeborg,GS,True,,35.0,26,9,1,1,1,2,7,11,20,2,4
+2026-10-28,Draymond Green,GS,True,,32.0,3,9,6,0,2,0,3,1,3,1,2
+2026-10-28,Stephen Curry,GS,True,,32.0,44,8,6,2,0,6,2,11,27,16,16
+2026-10-28,Brandin Podziemski,GS,True,,32.0,8,5,6,0,0,0,2,2,5,4,7
+2026-10-28,Georges Niang,GS,True,,23.0,7,3,2,2,0,1,1,3,6,0,0
+2026-10-28,Will Richard,GS,True,,23.0,6,3,0,0,0,0,0,2,5,2,2
+2026-10-28,De'Anthony Melton,GS,True,,20.0,8,6,0,1,1,2,1,2,7,2,2
+2026-10-28,Al Horford,GS,True,,18.0,4,5,2,1,1,0,1,2,3,0,0
+2026-10-28,Brandon Williams,GS,True,,14.0,11,3,1,0,0,0,0,4,11,3,4
+2026-10-28,Gary Payton II,GS,True,,10.0,2,2,1,0,0,0,0,1,2,0,0
+2026-10-28,Charles Bassey,GS,True,,2.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Graham Ike,GS,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Malevy Leons,GS,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Gui Santos,GS,False,LEFT KNEE TENDINITIS,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,LJ Cryer,GS,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Amen Thompson,HOU,True,,33.0,23,4,3,1,0,0,1,10,16,3,4
+2026-10-28,Kevin Durant,HOU,True,,31.0,18,5,4,0,3,2,3,5,9,6,7
+2026-10-28,Tari Eason,HOU,True,,31.0,5,9,1,1,3,1,3,2,6,0,0
+2026-10-28,Jabari Smith Jr.,HOU,True,,30.0,14,2,2,1,1,3,0,4,12,3,3
+2026-10-28,Fred VanVleet,HOU,True,,29.0,24,6,5,2,0,4,3,7,14,6,6
+2026-10-28,Reed Sheppard,HOU,True,,23.0,7,3,4,1,0,1,0,2,9,2,2
+2026-10-28,Clint Capela,HOU,True,,22.0,10,8,2,3,2,0,2,5,6,0,0
+2026-10-28,Bogdan Bogdanovic,HOU,True,,15.0,16,2,4,2,0,4,1,5,6,2,2
+2026-10-28,Oscar Tshiebwe,HOU,True,,14.0,7,5,2,1,1,0,1,3,3,1,2
+2026-10-28,Isaiah Crawford,HOU,True,,5.0,3,0,0,0,0,1,0,1,1,0,0
+2026-10-28,Jae'Sean Tate,HOU,True,,4.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Bruce Thornton,HOU,True,,3.0,5,0,0,0,0,1,0,2,2,0,0
+2026-10-28,Alperen Sengun,HOU,False,LOW BACK SORENESS,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Marcus Smart,HOU,False,LEFT ARM,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Andrew Nembhard,IND,True,,35.0,18,3,14,0,0,1,4,5,16,7,8
+2026-10-28,Pascal Siakam,IND,True,,34.0,26,11,3,1,0,0,3,11,17,4,4
+2026-10-28,Kelly Oubre Jr.,IND,True,,30.0,15,3,1,0,1,1,1,5,10,4,4
+2026-10-28,Aaron Nesmith,IND,True,,27.0,18,2,1,2,0,3,2,5,16,5,5
+2026-10-28,Larry Nance Jr.,IND,True,,23.0,5,5,0,1,0,1,2,2,5,0,0
+2026-10-28,Obi Toppin,IND,True,,22.0,13,6,0,0,0,1,0,4,8,4,8
+2026-10-28,Jarace Walker,IND,True,,22.0,7,8,1,0,0,1,1,2,4,2,4
+2026-10-28,Jay Huff,IND,True,,16.0,3,6,2,0,0,1,0,1,5,0,0
+2026-10-28,Quenton Jackson,IND,True,,14.0,2,2,6,0,0,0,1,1,6,0,0
+2026-10-28,Jalen Slawson,IND,True,,12.0,2,1,1,1,1,0,1,0,0,2,2
+2026-10-28,Braden Smith,IND,True,,5.0,0,0,1,0,0,0,0,0,0,0,0
+2026-10-28,Ivica Zubac,IND,False,LEFT ANKLE SPRAIN,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Kobe Brown,IND,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Davion Mitchell,MIA,True,,34.0,10,1,10,2,0,0,2,5,12,0,0
+2026-10-28,Bam Adebayo,MIA,True,,33.0,24,9,3,3,0,0,3,8,16,8,9
+2026-10-28,Giannis Antetokounmpo,MIA,True,,31.0,24,18,3,1,1,0,2,11,18,2,5
+2026-10-28,Pelle Larsson,MIA,True,,31.0,17,6,8,1,0,2,2,6,12,3,4
+2026-10-28,Andrew Wiggins,MIA,True,,29.0,18,2,2,0,2,4,1,6,9,2,3
+2026-10-28,Bobby Portis,MIA,True,,23.0,11,9,4,2,1,1,1,5,11,0,0
+2026-10-28,Tim Hardaway Jr.,MIA,True,,22.0,14,3,1,0,2,2,1,6,10,0,0
+2026-10-28,Klay Thompson,MIA,True,,17.0,3,1,2,0,1,1,0,1,4,0,0
+2026-10-28,Dru Smith,MIA,True,,14.0,3,0,3,0,0,0,2,1,2,1,2
+2026-10-28,Nikola Jovic,MIA,True,,7.0,5,3,0,0,0,1,0,2,2,0,0
+2026-10-28,Simone Fontecchio,MIA,False,ILLNESS,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Myron Gardner,MIA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Nick Richards,MIA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Ryan Conwell,MIA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jaime Jaquez Jr.,MIL,True,,27.0,19,4,2,1,0,3,1,7,13,2,2
+2026-10-28,Tyler Herro,MIL,True,,27.0,23,3,0,1,0,4,2,9,13,1,1
+2026-10-28,AJ Green,MIL,True,,24.0,9,1,2,0,0,3,1,3,5,0,0
+2026-10-28,Myles Turner,MIL,True,,22.0,4,2,2,1,2,0,2,2,7,0,0
+2026-10-28,Nate Ament,MIL,True,,20.0,8,4,0,1,1,1,2,2,7,3,4
+2026-10-28,Kasparas Jakucionis,MIL,True,,19.0,4,2,6,0,0,0,3,1,3,2,4
+2026-10-28,Kyle Kuzma,MIL,True,,18.0,4,6,1,1,0,0,1,2,6,0,0
+2026-10-28,Ryan Rollins,MIL,True,,17.0,4,4,5,1,0,0,1,2,14,0,0
+2026-10-28,Kel'el Ware,MIL,True,,17.0,6,8,0,0,0,0,1,2,9,2,2
+2026-10-28,Brayden Burries,MIL,True,,17.0,10,5,1,1,0,0,2,3,6,4,5
+2026-10-28,Ousmane Dieng,MIL,True,,13.0,4,0,0,1,0,0,0,2,5,0,0
+2026-10-28,Jericho Sims,MIL,True,,7.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Gary Trent Jr.,MIL,True,,7.0,3,0,0,0,0,1,0,1,3,0,0
+2026-10-28,Bogoljub Markovic,MIL,True,,5.0,2,1,0,0,0,0,0,1,1,0,0
+2026-10-28,Caris LeVert,MIL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jaden McDaniels,MIN,True,,35.0,19,7,4,0,0,1,2,8,18,2,3
+2026-10-28,Jonathan Kuminga,MIN,True,,32.0,20,3,5,2,0,3,0,7,15,3,5
+2026-10-28,Ayo Dosunmu,MIN,True,,32.0,17,3,4,4,0,3,0,6,12,2,2
+2026-10-28,LaMelo Ball,MIN,True,,28.0,8,4,8,1,0,2,6,3,11,0,0
+2026-10-28,Terrence Shannon Jr.,MIN,True,,27.0,19,6,2,1,0,1,3,5,13,8,10
+2026-10-28,Trey Lyles,MIN,True,,22.0,7,3,1,1,1,1,0,3,5,0,0
+2026-10-28,Rudy Gobert,MIN,True,,20.0,1,4,1,1,0,0,0,0,4,1,2
+2026-10-28,Joan Beringer,MIN,True,,20.0,7,9,2,0,1,0,1,3,3,1,3
+2026-10-28,Bones Hyland,MIN,True,,16.0,13,1,3,0,0,3,2,4,7,2,2
+2026-10-28,Jaylen Clark,MIN,True,,7.0,3,2,1,0,0,1,1,1,2,0,0
+2026-10-28,Cody Williams,MIN,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Isaiah Evans,MIN,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Zion Williamson,NO,True,,32.0,25,5,2,3,0,1,1,10,14,4,6
+2026-10-28,Trey Murphy III,NO,True,,30.0,6,1,3,2,0,2,2,2,7,0,1
+2026-10-28,Dejounte Murray,NO,True,,30.0,10,8,5,1,0,0,2,4,11,2,2
+2026-10-28,Saddiq Bey,NO,True,,26.0,9,0,3,2,0,1,0,3,10,2,2
+2026-10-28,Derik Queen,NO,True,,25.0,11,12,1,0,1,0,5,3,6,5,7
+2026-10-28,Jeremiah Fears,NO,True,,24.0,11,4,3,1,0,1,3,5,14,0,0
+2026-10-28,Herbert Jones,NO,True,,19.0,4,2,0,2,1,0,1,1,5,2,2
+2026-10-28,Karlo Matkovic,NO,True,,18.0,5,3,1,0,0,1,1,2,6,0,0
+2026-10-28,Bennedict Mathurin,NO,True,,14.0,5,1,2,1,0,1,3,2,5,0,0
+2026-10-28,DeAndre Jordan,NO,True,,13.0,3,4,0,0,1,0,1,1,1,1,2
+2026-10-28,Jordan Poole,NO,True,,7.0,2,1,0,1,0,0,0,1,3,0,0
+2026-10-28,Bryce McGowens,NO,True,,3.0,0,0,0,1,0,0,0,0,0,0,0
+2026-10-28,Trendon Watford,NO,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Julian Reese,NO,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,AJ Johnson,NO,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Josh Hart,NY,True,,36.0,2,8,3,0,1,0,2,1,6,0,0
+2026-10-28,Jalen Brunson,NY,True,,35.0,38,1,7,2,0,6,2,13,25,6,8
+2026-10-28,Landry Shamet,NY,True,,32.0,14,1,5,0,2,4,0,5,10,0,0
+2026-10-28,OG Anunoby,NY,True,,31.0,23,6,1,0,0,2,1,7,16,7,8
+2026-10-28,Karl-Anthony Towns,NY,True,,28.0,19,13,5,1,0,3,4,7,14,2,2
+2026-10-28,Tyler Kolek,NY,True,,18.0,9,2,9,0,0,3,0,3,4,0,0
+2026-10-28,Jordan Clarkson,NY,True,,17.0,18,3,1,2,0,2,0,7,11,2,2
+2026-10-28,Andre Drummond,NY,True,,15.0,4,11,1,0,1,0,1,2,6,0,0
+2026-10-28,Miles McBride,NY,True,,14.0,3,5,0,1,2,1,1,1,9,0,0
+2026-10-28,Mikal Bridges,NY,True,,13.0,3,0,0,0,0,1,1,1,4,0,0
+2026-10-28,Pacome Dadiet,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Mohamed Diawara,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,James Wiseman,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Kevin McCullar Jr.,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jaden Akins,NY,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jared McCain,OKC,True,,29.0,10,4,4,0,0,0,3,3,13,4,5
+2026-10-28,Shai Gilgeous-Alexander,OKC,True,,28.0,21,6,2,1,0,1,1,7,19,6,6
+2026-10-28,Ajay Mitchell,OKC,True,,28.0,29,4,3,2,1,2,2,12,20,3,3
+2026-10-28,Bennett Stirtz,OKC,True,,28.0,8,0,3,0,0,1,0,3,5,1,2
+2026-10-28,Isaiah Hartenstein,OKC,True,,26.0,10,14,3,0,0,0,2,4,6,2,2
+2026-10-28,Josh Dix,OKC,True,,24.0,2,2,0,1,0,0,1,1,8,0,0
+2026-10-28,Aday Mara,OKC,True,,21.0,6,3,1,0,2,0,3,2,4,2,2
+2026-10-28,Jaylin Williams,OKC,True,,20.0,0,5,1,0,0,0,0,0,2,0,0
+2026-10-28,Kenrich Williams,OKC,True,,17.0,7,3,0,0,0,1,1,3,7,0,0
+2026-10-28,Brooks Barnhizer,OKC,True,,14.0,3,2,0,0,0,0,0,1,3,1,3
+2026-10-28,Micah Peavy,OKC,True,,5.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Franz Wagner,ORL,True,,34.0,15,4,5,2,0,0,7,4,11,7,8
+2026-10-28,Desmond Bane,ORL,True,,34.0,13,5,4,1,2,2,0,3,14,5,5
+2026-10-28,Tristan da Silva,ORL,True,,31.0,20,3,1,0,0,4,0,8,10,0,3
+2026-10-28,Wendell Carter Jr.,ORL,True,,26.0,3,10,3,1,0,0,2,1,4,1,2
+2026-10-28,Anthony Black,ORL,True,,22.0,8,2,1,1,1,0,4,4,9,0,0
+2026-10-28,Jevon Carter,ORL,True,,22.0,6,0,3,0,0,2,1,2,6,0,0
+2026-10-28,Jamal Cain,ORL,True,,16.0,9,1,0,2,0,0,1,2,7,5,5
+2026-10-28,Nikola Vucevic,ORL,True,,16.0,5,4,2,0,1,0,1,2,5,1,2
+2026-10-28,Jase Richardson,ORL,True,,14.0,10,1,1,0,0,2,0,4,8,0,0
+2026-10-28,Goga Bitadze,ORL,True,,11.0,6,0,1,1,0,0,1,1,1,4,4
+2026-10-28,Colin Castleton,ORL,True,,7.0,2,2,0,0,1,0,1,1,3,0,0
+2026-10-28,Alex Morales,ORL,True,,7.0,2,2,1,0,0,0,2,1,2,0,0
+2026-10-28,Joel Embiid,PHI,True,,39.0,21,11,2,0,1,0,4,9,17,3,3
+2026-10-28,Tyrese Maxey,PHI,True,,36.0,27,5,4,1,0,3,4,8,18,8,9
+2026-10-28,Jaylen Brown,PHI,True,,34.0,20,10,2,1,1,1,5,7,13,5,5
+2026-10-28,LeBron James,PHI,True,,33.0,13,5,10,1,2,2,0,5,12,1,2
+2026-10-28,VJ Edgecombe,PHI,True,,29.0,8,7,2,1,0,1,3,3,10,1,1
+2026-10-28,Anfernee Simons,PHI,True,,27.0,20,3,1,1,0,6,0,7,11,0,0
+2026-10-28,Kentavious Caldwell-Pope,PHI,True,,21.0,4,2,1,2,0,0,0,1,4,2,2
+2026-10-28,Dean Wade,PHI,True,,17.0,0,1,1,0,0,0,0,0,1,0,0
+2026-10-28,Adem Bona,PHI,True,,4.0,1,1,0,0,1,0,0,0,1,1,2
+2026-10-28,Justin Edwards,PHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Labaron Philon Jr.,PHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Rayan Rupert,PHI,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Victor Wembanyama,SA,True,,39.0,36,14,5,2,2,4,0,14,25,4,4
+2026-10-28,De'Aaron Fox,SA,True,,39.0,14,3,4,3,1,1,3,5,12,3,4
+2026-10-28,Devin Vassell,SA,True,,38.0,21,5,2,3,0,1,1,8,18,4,4
+2026-10-28,Stephon Castle,SA,True,,38.0,14,6,8,2,1,1,3,6,13,1,2
+2026-10-28,Dylan Harper,SA,True,,37.0,13,5,8,2,0,2,3,4,17,3,3
+2026-10-28,Julian Champagnie,SA,True,,31.0,6,6,0,0,0,2,0,2,5,0,0
+2026-10-28,Keldon Johnson,SA,True,,23.0,9,6,2,1,0,0,1,4,7,1,2
+2026-10-28,Luke Kornet,SA,True,,14.0,1,6,1,1,1,0,0,0,2,1,2
+2026-10-28,Carter Bryant,SA,True,,5.0,3,0,0,0,0,1,0,1,2,0,0
+2026-10-28,Harrison Barnes,SA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,David Jones Garcia,SA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Tarris Reed Jr.,SA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Jordan McLaughlin,SA,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,RJ Barrett,TOR,True,,32.0,25,9,6,1,0,3,0,9,18,4,5
+2026-10-28,Scottie Barnes,TOR,True,,31.0,28,6,4,3,2,0,2,11,17,6,6
+2026-10-28,Immanuel Quickley,TOR,True,,29.0,16,3,7,2,0,4,1,5,15,2,2
+2026-10-28,Ja'Kobe Walter,TOR,True,,28.0,14,5,2,1,0,3,0,5,9,1,1
+2026-10-28,Jamal Shead,TOR,True,,23.0,13,4,7,2,0,1,4,4,7,4,4
+2026-10-28,Trayce Jackson-Davis,TOR,True,,20.0,6,11,2,0,3,0,0,3,5,0,0
+2026-10-28,Jamison Battle,TOR,True,,20.0,7,0,1,2,0,1,1,1,4,4,5
+2026-10-28,Allen Graves,TOR,True,,18.0,3,1,0,1,0,0,1,0,3,3,4
+2026-10-28,Collin Murray-Boyles,TOR,True,,15.0,10,2,1,0,0,2,3,3,5,2,2
+2026-10-28,Jakob Poeltl,TOR,True,,10.0,2,2,0,0,0,0,1,1,1,0,2
+2026-10-28,Kyle Anderson,TOR,True,,5.0,0,0,1,1,0,0,0,0,0,0,0
+2026-10-28,Jaden Bradley,TOR,True,,5.0,0,1,1,2,0,0,1,0,1,0,0
+2026-10-28,Alijah Martin,TOR,True,,5.0,5,1,1,0,0,1,0,2,3,0,0
+2026-10-28,Ace Bailey,UTAH,True,,40.0,19,6,0,0,1,1,3,9,18,0,0
+2026-10-28,Jaxson Hayes,UTAH,True,,37.0,2,11,4,1,2,0,2,0,2,2,2
+2026-10-28,Keyonte George,UTAH,True,,37.0,31,4,3,0,0,5,5,11,27,4,4
+2026-10-28,Josh Okogie,UTAH,True,,28.0,5,9,3,0,0,1,0,2,2,0,0
+2026-10-28,Darryn Peterson,UTAH,True,,26.0,18,5,3,1,0,3,2,4,13,7,7
+2026-10-28,Josh Green,UTAH,True,,24.0,2,2,2,1,1,0,0,1,3,0,0
+2026-10-28,Isaiah Collier,UTAH,True,,24.0,7,7,6,0,0,0,6,2,6,3,4
+2026-10-28,Brice Sensabaugh,UTAH,True,,18.0,16,3,1,0,0,4,0,5,9,2,2
+2026-10-28,Mo Bamba,UTAH,True,,16.0,8,4,1,0,1,0,1,4,6,0,0
+2026-10-28,Svi Mykhailiuk,UTAH,True,,15.0,3,2,1,0,0,1,0,1,6,0,0
+2026-10-28,Blake Hinson,UTAH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Kyle Filipowski,UTAH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Tony Bradley,UTAH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Kyshawn George,WSH,True,,38.0,8,2,11,0,1,0,0,4,10,0,0
+2026-10-28,Anthony Davis,WSH,True,,34.0,18,5,3,1,2,2,0,8,18,0,0
+2026-10-28,Trae Young,WSH,True,,34.0,14,5,8,0,0,1,4,3,12,7,7
+2026-10-28,AJ Dybantsa,WSH,True,,27.0,19,2,2,0,0,1,2,8,12,2,2
+2026-10-28,Bilal Coulibaly,WSH,True,,27.0,17,2,0,2,2,1,0,8,9,0,0
+2026-10-28,Alex Sarr,WSH,True,,26.0,18,4,2,4,1,2,1,7,11,2,3
+2026-10-28,Khris Middleton,WSH,True,,23.0,4,3,2,0,0,1,3,1,2,1,2
+2026-10-28,Bub Carrington,WSH,True,,20.0,3,1,3,0,0,0,0,0,4,3,3
+2026-10-28,Deandre Ayton,WSH,True,,12.0,10,3,0,0,0,0,0,5,5,0,0
+2026-10-28,Anthony Gill,WSH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Tre Mann,WSH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Will Riley,WSH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-10-28,Tre Johnson,WSH,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
