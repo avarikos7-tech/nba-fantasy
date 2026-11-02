@@ -78,7 +78,6 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-11-01,Jaden Hardy,LAL,True,,1.0,1,0,0,0,0,0,0,0,0,1,2
 2026-11-01,Cameron Carr,LAL,True,,1.0,0,0,0,0,0,0,0,0,0,0,0
 2026-11-01,Kevon Looney,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
-2026-11-01,AK Okereke,LAL,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
 2026-11-01,Franz Wagner,ORL,True,,40.0,14,6,12,0,0,1,3,5,20,3,4
 2026-11-01,Desmond Bane,ORL,True,,40.0,19,2,1,2,1,5,3,7,13,0,0
 2026-11-01,Wendell Carter Jr.,ORL,True,,35.0,7,10,0,2,0,1,3,2,6,2,4
@@ -103,4 +102,4 @@ date,player,team,played,reason,min,pts,reb,ast,stl,blk,3pm,to,fgm,fga,ftm,fta
 2026-11-01,Trayce Jackson-Davis,TOR,True,,9.0,5,5,0,2,0,0,0,2,3,1,1
 2026-11-01,Kyle Anderson,TOR,True,,4.0,2,3,3,0,0,0,1,1,2,0,0
 2026-11-01,Jaden Bradley,TOR,True,,4.0,3,1,2,1,0,0,0,1,2,1,1
-2026-11-01,Jakob Poeltl,TOR,False,COACH'S DECISION,0.0,0,0,0,0,0,0,0,0,0,0,0
+2026-11-01,Jakob Poeltl,TOR,False,LEFT SHOULDER,0.0,0,0,0,0,0,0,0,0,0,0,0
