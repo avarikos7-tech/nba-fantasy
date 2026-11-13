@@ -2,8 +2,8 @@ name: Daily NBA report
 
 on:
   schedule:
-    - cron: "0 4 * * *"
-    - cron: "0 6 * * *"
+    - cron: "30 5 * * *"
+    - cron: "30 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,13 +21,22 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
       - name: Get stats
         run: python nba_boxscores.py
+      - name: Get injury report
+        continue-on-error: true
+        run: |
+          pip install nbainjuries
+          python nba_injuries.py
       - name: Save to the repository
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add reports
-          git commit -m "Box scores $(date -u +%F)" || echo "Nothing new to save"
+          git commit -m "Box scores and injuries $(date -u +%F)" || echo "Nothing new to save"
           git pull --rebase
           git push
