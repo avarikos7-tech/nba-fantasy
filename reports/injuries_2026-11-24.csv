@@ -1,27 +1,28 @@
 report_time_et,game_date,game_time,matchup,team,player,player_raw,status,reason
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Cade Cunningham,"Cunningham, Cade",Probable,Injury/Illness - Right Knee Soreness
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Jalen Duren,"Duren, Jalen",Out,Injury/Illness - Right Hamstring Strain
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Isaac Jones,"Jones, Isaac",Questionable,G League - Two-Way
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Ebuka Okorie,"Okorie, Ebuka",Out,Injury/Illness - Left Oblique Strain
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Ugonna Onyenso,"Onyenso, Ugonna",Out,G League - Two-Way
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Taurean Prince,"Prince, Taurean",Out,Injury/Illness - Right Knee Arthroscopy
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Duncan Robinson,"Robinson, Duncan",Out,Injury/Illness - Left Quadriceps Strain
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Paolo Banchero,"Banchero, Paolo",Out,Injury/Illness - Right High Ankle Sprain
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Colin Castleton,"Castleton, Colin",Out,G League - Two-Way
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Jonathan Isaac,"Isaac, Jonathan",Out,Injury/Illness - Left Knee Injury Management
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Izaiyah Nelson,"Nelson, Izaiyah",Out,Injury/Illness - Left Ankle injury recovery
-2026-11-24 11:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Noah Penda,"Penda, Noah",Out,Injury/Illness - Right Partially torn hamstring
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Boston Celtics,Dillon Mitchell,"Mitchell, Dillon",Out,G League - Two-Way
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Boston Celtics,Mitchell Robinson,"Robinson, Mitchell",Out,Injury/Illness - Illness
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Boston Celtics,Amari Williams,"Williams, Amari",Out,G League - Two-Way
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Reece Beekman,"Beekman, Reece",Out,Injury/Illness - Right AC Joint Sprain / Separation
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Justin Champagnie,"Champagnie, Justin",Out,Injury/Illness - Right Foot Surgery
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Felix Okpara,"Okpara, Felix",Questionable,G League - Two-Way
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Tristan Vukcevic,"Vukcevic, Tristan",Out,Injury/Illness - Left Hip Impingement
-2026-11-24 11:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Jamir Watkins,"Watkins, Jamir",Out,Injury/Illness - Left ACL Repair / Surgery
-2026-11-24 11:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Tarik Biberovic,"Biberovic, Tarik",Out,Injury/Illness - Right Heel Bursitis
-2026-11-24 11:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Sergio de Larrea,"de Larrea, Sergio",Out,Injury/Illness - Right Knee Sprain
-2026-11-24 11:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Tobi Lawal,"Lawal, Tobi",Out,Injury/Illness - Right Groin Strain
-2026-11-24 11:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Dereck Lively II,"Lively II, Dereck",Out,Injury/Illness - Right Foot Surgery
-2026-11-24 11:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Caleb Martin,"Martin, Caleb",Available,Injury/Illness - Right Thumb Splint
-2026-11-24 11:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,P.J. Washington,"Washington, P.J.",Questionable,Injury/Illness - Illness
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Cade Cunningham,"Cunningham, Cade",Probable,Injury/Illness - Right Knee Soreness
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Jalen Duren,"Duren, Jalen",Out,Injury/Illness - Right Hamstring Strain
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Isaac Jones,"Jones, Isaac",Questionable,G League - Two-Way
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Ebuka Okorie,"Okorie, Ebuka",Out,Injury/Illness - Left Oblique Strain
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Ugonna Onyenso,"Onyenso, Ugonna",Out,G League - Two-Way
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Taurean Prince,"Prince, Taurean",Out,Injury/Illness - Right Knee Arthroscopy
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Detroit Pistons,Duncan Robinson,"Robinson, Duncan",Out,Injury/Illness - Left Quadriceps Strain
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Paolo Banchero,"Banchero, Paolo",Out,Injury/Illness - Right High Ankle Sprain
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Colin Castleton,"Castleton, Colin",Out,G League - Two-Way
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Jonathan Isaac,"Isaac, Jonathan",Out,Injury/Illness - Left Knee Injury Management
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Izaiyah Nelson,"Nelson, Izaiyah",Out,Injury/Illness - Left Ankle injury recovery
+2026-11-24 13:00,11/24/2026,07:00 (ET),DET@ORL,Orlando Magic,Noah Penda,"Penda, Noah",Out,Injury/Illness - Right Partially torn hamstring
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Boston Celtics,Dillon Mitchell,"Mitchell, Dillon",Out,G League - Two-Way
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Boston Celtics,Mitchell Robinson,"Robinson, Mitchell",Out,Injury/Illness - Illness
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Boston Celtics,Amari Williams,"Williams, Amari",Out,G League - Two-Way
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Reece Beekman,"Beekman, Reece",Out,Injury/Illness - Right AC Joint Sprain / Separation
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Justin Champagnie,"Champagnie, Justin",Out,Injury/Illness - Right Foot Surgery
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Tre Mann,"Mann, Tre",Questionable,Injury/Illness - Illness
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Felix Okpara,"Okpara, Felix",Questionable,G League - Two-Way
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Tristan Vukcevic,"Vukcevic, Tristan",Out,Injury/Illness - Left Hip Impingement
+2026-11-24 13:00,11/24/2026,08:00 (ET),BOS@WAS,Washington Wizards,Jamir Watkins,"Watkins, Jamir",Out,Injury/Illness - Left ACL Repair / Surgery
+2026-11-24 13:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Tarik Biberovic,"Biberovic, Tarik",Out,Injury/Illness - Right Heel Bursitis
+2026-11-24 13:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Sergio de Larrea,"de Larrea, Sergio",Out,Injury/Illness - Right Knee Sprain
+2026-11-24 13:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Tobi Lawal,"Lawal, Tobi",Out,Injury/Illness - Right Groin Strain
+2026-11-24 13:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Dereck Lively II,"Lively II, Dereck",Out,Injury/Illness - Right Foot Surgery
+2026-11-24 13:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,Caleb Martin,"Martin, Caleb",Available,Injury/Illness - Right Thumb Splint
+2026-11-24 13:00,11/24/2026,10:00 (ET),DAL@DEN,Dallas Mavericks,P.J. Washington,"Washington, P.J.",Questionable,Injury/Illness - Illness
